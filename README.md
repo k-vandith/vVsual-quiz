@@ -1,1 +1,1 @@
-# vVsual-quiz
+# quiz
